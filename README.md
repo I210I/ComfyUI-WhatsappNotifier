@@ -14,3 +14,11 @@ To install ComfyUI-Manager in addition to an existing installation of ComfyUI, y
 
    ```sh
    git clone https://github.com/I210I/ComfyUI-WhatsappNotifier.git
+3. Restart ComfyUI
+
+## Installation [Method 2] (General installation method: ComfyUI-WhatsappNotifier only)
+
+1. Install git
+   - https://git-scm.com/download/win
+   - standalone version
+   - select option: use windows default console window
