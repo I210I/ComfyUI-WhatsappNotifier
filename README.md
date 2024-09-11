@@ -1,7 +1,7 @@
 # ComfyUI-WhatsappNotifier
 Node to send messages via WhatsApp, used in a workflow, in the Queue of the final prompt. You must have a session started in the same browser where ComfyUI is running by default.
 
-![ComfyUI-WhatsappNotifier](https://github.com/user-attachments/assets/7e9767d9-32ca-4e77-b603-a0970c8d8420)
+![{30BB1359-C081-479C-8110-02360FA845CD}](https://github.com/user-attachments/assets/24c13788-8cbb-41c5-b95a-326b51927f13)
 
 # Installation
 
@@ -22,3 +22,6 @@ To install ComfyUI-Manager in addition to an existing installation of ComfyUI, y
    - https://git-scm.com/download/win
    - standalone version
    - select option: use windows default console window
+
+2. Download scripts/install-wanotifier.bat into installed "ComfyUI_windows_portable" directory
+3. double click install-wanotifier.bat batch file
