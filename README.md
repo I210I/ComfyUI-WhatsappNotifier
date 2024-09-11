@@ -3,6 +3,18 @@ Node to send messages via WhatsApp, used in a workflow, in the Queue of the fina
 
 ![{30BB1359-C081-479C-8110-02360FA845CD}](https://github.com/user-attachments/assets/24c13788-8cbb-41c5-b95a-326b51927f13)
 
+# Prerequisites
+
+1.- Have a Whatsapp session started in the default [browser](https://web.whatsapp.com/). 
+
+![{00162752-64FA-45FA-AB70-B8F81627ABB0}](https://github.com/user-attachments/assets/72ad046d-f203-4a9d-b79f-90c97060874c)
+
+
+Note: add this node and run the flow at the end of your Queue.
+
+![image](https://github.com/user-attachments/assets/a12cbe1d-3983-4055-a463-6f29aecb4f16)
+
+
 # Installation
 
 ## Installation [Method 1] (General installation method: ComfyUI-WhatsappNotifier only)
