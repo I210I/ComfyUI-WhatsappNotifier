@@ -23,5 +23,5 @@ To install ComfyUI-Manager in addition to an existing installation of ComfyUI, y
    - standalone version
    - select option: use windows default console window
 
-2. Download [scripts/install-wanotifier.bat](https://github.com/I210I/ComfyUI-WhatsappNotifier/blob/main/scripts/install-wanotifier.bat) into installed "ComfyUI_windows_portable" directory.
+2. Download [scripts/install-wanotifier.bat](https://raw.githubusercontent.com/I210I/ComfyUI-WhatsappNotifier/blob/main/scripts/install-wanotifier.bat) into installed "ComfyUI_windows_portable" directory.
 3. double click install-wanotifier.bat batch file
