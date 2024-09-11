@@ -5,12 +5,12 @@ Node to send messages via WhatsApp, used in a workflow, in the Queue of the fina
 ## Installation[method1] (General installation method: ComfyUI-Manager only)
 To install ComfyUI-Manager in addition to an existing installation of ComfyUI, you can follow the following steps:
 
-goto ComfyUI/custom_nodes dir in terminal(cmd)
-git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+1.- goto ComfyUI/custom_nodes dir in terminal(cmd)
+2.- git clone https://github.com/ltdrdata/ComfyUI-Manager.git](https://github.com/I210I/ComfyUI-WhatsappNotifier.git
 Restart ComfyUI
 Installation[method2] (Installation for portable ComfyUI version: ComfyUI-Manager only)
 install git
-https://github.com/I210I/ComfyUI-WhatsappNotifier.git
+
 standalone version
 select option: use windows default console window
 Download scripts/install-manager-for-portable-version.bat into installed "ComfyUI_windows_portable" directory
