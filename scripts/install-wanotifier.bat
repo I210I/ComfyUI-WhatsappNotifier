@@ -1,0 +1,2 @@
+.\python_embeded\python.exe -s -m pip install pywhatkit
+.\python_embeded\python.exe -c "import git; git.Repo.clone_from('https://github.com/I210I/ComfyUI-WhatsappNotifier', './ComfyUI/custom_nodes/ComfyUI-WhatsappNotifier')"
