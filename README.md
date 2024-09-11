@@ -39,7 +39,7 @@ To install ComfyUI-Manager in addition to an existing installation of ComfyUI, y
 
 ![{3154957E-DC5F-4CC2-A706-F10531E5F591}](https://github.com/user-attachments/assets/e1dcb3bb-4811-472b-87a5-39e4f4e6b909)
 
-2. I recommend running the default workflow at the end of your Queue.
+2. I recommend running the default workflow at the end of your Queue. (LOAD DEFAULT)
 
 ![image](https://github.com/user-attachments/assets/76738125-ff18-4aa2-a580-ed4eb247f9e6)
 
