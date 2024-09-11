@@ -5,7 +5,7 @@ Node to send messages via WhatsApp, used in a workflow, in the Queue of the fina
 
 # Installation
 
-## Installation [Method 1] (General installation method: ComfyUI-Manager only)
+## Installation [Method 1] (General installation method: ComfyUI-WhatsappNotifier only)
 
 To install ComfyUI-Manager in addition to an existing installation of ComfyUI, you can follow these steps:
 
